@@ -1,0 +1,8 @@
+{
+  "debug": {
+    "content-endpoint": "http://localhost:8888"
+  },
+  "release": {
+    "content-endpoint": "https://hubbub-instaproduct-mobile.herokuapp.com"
+  }
+}

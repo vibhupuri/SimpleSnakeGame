@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="uk.co.hubbub.cordova-skeleton" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Hubbub Cordova Skeleton</name>
+    <description>
+        A Cordova skeleton app.
+    </description>
+    <author email="developers@hubbub.co.uk" href="https://www.hubbub.co.uk">
+        Hubbub Technology Team 
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <feature name="Console">
+        <param name="id" value="org.apache.cordova.console" />
+    </feature>
+</widget>

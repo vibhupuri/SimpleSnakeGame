@@ -1,0 +1,17 @@
+{
+  "name": "instaproduct-mobile",
+  "repository": "https://github.com/hubbub/instaproduct-mobile",
+  "version": "0.0.1",
+  "author": "Jon Wood <jon@hubbub.co.uk>",
+  "description": "The mobile client for InstaProduct",
+  "scripts": {
+    "start": "node_modules/.bin/http-server -c$CACHE_TIMEOUT -p$PORT www"
+  },
+  "dependencies": {
+    "cordova": "^3.5.0-0.2.6",
+    "http-server": "^0.6.1"
+  },
+  "devDependencies": {
+    "foreman": "^0.4.0"
+  }
+}
